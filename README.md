@@ -1,1 +1,1 @@
-S M SHOAIBUL HAQUE
+Hi! My name is S M Shoaibul Haque, and I am an Industrial Information Technology student at LAB University of Applied Sciences. I am interested in programming, automation, robotics, and AI. I am currently developing my skills in Python, Git, and other ICT technologies, and I hope to build my future career in the technology and robotics field.
